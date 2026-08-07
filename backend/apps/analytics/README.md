@@ -8,3 +8,4 @@ Responsibilities:
 - Weekly reports
 - Monthly reports
 - Team productivity metrics
+.
